@@ -16,7 +16,8 @@ md"""
 ### Ementa da Disciplina:
 
 1. Leitura e visualização de desenhos (Vistas Seccionais, cortes e secções e Perspectivas paralelas).
-2. Introdução ao desenho técnico mecânico auxiliado por computador (CAD). 3. Configurações e conceitos básicos.
+2. Introdução ao desenho técnico mecânico auxiliado por computador (CAD). 
+3. Configurações e conceitos básicos.
 4. Utilização de softwares.
 5. Comandos de precisão e edição.
 6. Utilização de camadas.
