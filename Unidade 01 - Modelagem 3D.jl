@@ -36,9 +36,9 @@ md"""
 
 🕑 2. Instalar e utilizar o software SpaceClaim. Postar no Classroom resumo dos fundamentos do programa *(até 23/set/2021)*;
 
-🕔 3. Seleção de projeto a ser apresentado à turma *(até 22/set/2021)*;
+🕔 3. Seleção de projeto a ser apresentado à turma *(até 23/set/2021)*;
 
-🕙 4. Entrega projeto no classroom e apresentações *(até 29/set/2021)*;
+🕙 4. Entrega relatório projeto no classroom e apresentações *(até 29/set/2021)*;
 
 🕑 5. Avaliações ($(html"<a href='' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 29/set/2021)* e
 
