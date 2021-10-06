@@ -36,7 +36,7 @@ md"""
 
 🕑 2. Estudar slides disponibilizados e buscar na rede outros conteúdos. Postar no Classroom resumo de até uma página. *(até 13/out/2021)*;
 
-🕔 3. Seleção de projeto a ser apresentado à turma *(até 13/out/2021)*;
+🕔 3. Seleção de projeto a ser apresentado à turma pelo grupo e dos sutemas de cada membro do grupo*(até 13/out/2021)*;
 
 🕙 4. Entrega relatório projeto no classroom e apresentações *(até 14/out/2021)*;
 
