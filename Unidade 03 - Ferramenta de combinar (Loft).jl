@@ -38,11 +38,11 @@ md"""
 
 🕑 2. Construir modelo 3d para impressão à partir do arquivo STL gerado na otimização topológica realizada no ANSYS. *(até 03/nov/2021)*;
 
-🕙 4. Entrega do modelo construído (aquivo zipado) e apresentações *(até 04/out/2021)*;
+🕙 3. Entrega do modelo construído (aquivo zipado) e apresentações *(até 04/out/2021)*;
 
-🕑 5. Avaliações *(até 10/out/2021)* e
+🕑 4. Avaliações *(até 10/out/2021)* e
 
-🕒 6. Feedback (sala) *(até 10/out/2021)*.
+🕒 5. Feedback (sala) *(até 10/out/2021)*.
 """
 
 # ╔═╡ Cell order:
