@@ -43,11 +43,11 @@ md"""
 - A estrutura deve suportar uma peneira de 150 cm por 50 cm.
 - devem ser entregues os aquivos 3D e as folhas de desenho com o detalhamento (dimensões e outras informações) de cada uma da partes.
 
-🕙 3. Entrega dos arquivos dos modelos (aquivo zipados) e apresentações *(até 25/out/2021)*;
+🕙 3. Entrega dos arquivos dos modelos (aquivo zipados) e apresentações *(até 25/nov/2021)*;
 
-🕑 4. Avaliações *(até 02/nov/2021)* e
+🕑 4. Avaliações *(até 02/dez/2021)* e
 
-🕒 5. Feedback (sala) *(até 02/nov/2021)*.
+🕒 5. Feedback (sala) *(até 02/dez/2021)*.
 """
 
 # ╔═╡ Cell order:
