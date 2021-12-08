@@ -32,22 +32,22 @@ md"""
 md"""
 ### Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até /dez/2021)*,
+🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 08/dez/2021)*,
  
-- _Desenho detalhado do sistema de molas da peneira_;
+- _Desenho detalhado do conjunto completo da peneira_;
 
-🕑 2. Construir modelo completo da peneira de areia.  *(até /dez/2021)*;
+🕑 2. Construir modelo completo da peneira de areia. *(até 15/dez/2021)*;
 
-- construir nos moldes do vídeo apresentado o sistem de molas da peneira;
+- construir nos moldes do vídeo apresentado o conjunto completo da peneira;
 - estimar as dimensões e escolher materiais de fácil aquisição;
 - Fazer os desenhos em partes separadas e montar o conjunto;
 - Fazer os modelos 3D e as folhas de desenho com os destalhes de todas as partes.
 
-🕙 3. Entrega dos arquivos dos modelos (aquivo zipados) e apresentações *(até /dez/2021 e /dez/2021)*;
+🕙 3. Entrega dos arquivos dos modelos (aquivo zipados), fazer apresentações e entregar trabalho escrito (relatório), em arquivo único (preferencialmene pdf) com as vistas 3D e folhas de desenho. *(até 15/dez/2021)*;
 
-🕑 4. Avaliações *(até /dez/2021)* e
+🕑 4. Avaliações *(até 16/dez/2021)* e
 
-🕒 5. Feedback (sala) *(até /dez/2021)*.
+🕒 5. Feedback (sala) *(até 16/dez/2021)*.
 """
 
 # ╔═╡ Cell order:
